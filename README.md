@@ -9,4 +9,5 @@ Resolving issues:
 2. -fl/--facets-lib-path requirement
 
 Image based on docker image provided from sasntech/facets-suite:v2.0.8.
+
 More information about facets-suits at https://github.com/mskcc/facets-suite.
